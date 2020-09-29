@@ -1,0 +1,52 @@
+.box {
+    box-shadow: 2px 2px 2px 5px rgba(227, 231, 233, 0.808);
+    border-radius: 5px;
+}
+
+.box1 {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.box1head {
+    color: hsl(179, 62%, 43%);
+    font-size: large;
+    font-weight: 700;
+}
+
+.box1head2 {
+    color: hsl(71, 73%, 54%);
+    font-size: medium;
+    font-weight: 600;
+}
+
+.box2{
+    background-color: hsl(179, 62%, 43%);
+    border-radius: 0px 0px 0px 7px;
+}
+
+.signinbtn{
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+    box-shadow: 3px 3px 3px 5px rgba(143, 141, 141, 0.281);
+}
+
+span{
+    font-size: small;
+    color:  hsl(204, 43%, 93%);
+    font-weight: 400;
+}
+
+h5{
+    font-size: smaller;
+    font-weight: 700;
+}
+
+.pading{
+    padding-top: 10px ;
+}
+
+.box3{
+    background-color:  hsla(179, 62%, 43%, 0.664);
+    border-radius: 0px 0px 7px 0px;
+}
